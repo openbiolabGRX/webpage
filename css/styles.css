@@ -1,0 +1,11 @@
+section{
+display:inline-block;
+width:100%;
+}
+h1{
+font-weight:bold;
+font-size:40px;
+color:#FFFFFF;
+background-color:#FFB405;
+display:inline-block;
+}
