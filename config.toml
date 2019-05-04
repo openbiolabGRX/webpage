@@ -54,7 +54,7 @@ disableHugoGeneratorInject = false
   # Metadata mostly used in document's head
   description = "DIYbio - Ciencia para generar conciencia"
   keywords = ""
-  images = ["/content/images/biolab_transparente.png"]
+  images = [""]
 
   homeSubtitle = "DIYbio"
 
