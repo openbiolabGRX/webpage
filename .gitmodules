@@ -3,4 +3,4 @@
 	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
 [submodule "openbiolabGRX.github.io"]
 	path = openbiolabGRX.github.io
-	url = git@github.com:openbiolabGRX/openbiolabGRX.github.io.git
+	url = https://github.com/openbiolabGRX/openbiolabGRX.github.io.git
