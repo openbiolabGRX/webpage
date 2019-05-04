@@ -52,9 +52,9 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
+  description = "DIYbio - Ciencia para generar conciencia"
   keywords = ""
-  images = [""]
+  images = ["/content/images/biolab_transparente.png"]
 
   homeSubtitle = "DIYbio"
 
